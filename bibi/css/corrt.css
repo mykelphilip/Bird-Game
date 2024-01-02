@@ -1,0 +1,11 @@
+input[type=text], input[type=password], input[type=email], label{
+  
+    margin-bottom: 0px;
+}
+
+input[type=submit] {
+    margin-top: 60px;
+    width: 40%;
+    text-align: center;
+    float: right;
+}
